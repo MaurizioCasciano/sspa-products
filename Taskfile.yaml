@@ -4,3 +4,6 @@ tasks:
   sspa-lib:
     cmds:
       - ng add single-spa-angular
+  env-gen:
+    cmds:
+      - ng g environments
